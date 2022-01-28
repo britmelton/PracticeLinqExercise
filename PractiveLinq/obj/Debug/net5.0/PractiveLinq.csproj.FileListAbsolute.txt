@@ -1,0 +1,16 @@
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\PractiveLinq.exe
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\PractiveLinq.deps.json
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\PractiveLinq.runtimeconfig.json
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\PractiveLinq.runtimeconfig.dev.json
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\PractiveLinq.dll
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\ref\PractiveLinq.dll
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\bin\Debug\net5.0\PractiveLinq.pdb
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.csproj.AssemblyReference.cache
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.AssemblyInfoInputs.cache
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.AssemblyInfo.cs
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.csproj.CoreCompileInputs.cache
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.dll
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\ref\PractiveLinq.dll
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.pdb
+C:\Users\britt\reposTC\PractiveLinq\PractiveLinq\obj\Debug\net5.0\PractiveLinq.genruntimeconfig.cache
